@@ -8,10 +8,10 @@ Replace the empty files **oped.pdf** and **tweet.txt** with your your versions a
 
 If you use ChatGPT (or similar chatbots or AI-based text generation tools), you must describe what tool(s) you used and how you used them, including providing the prompts, original generation, and your edits.
 
-**Full name:** ???
+**Full name:** Ashley Kalinock
 
-**UMBC username:**  ???
+**UMBC username:**  ashleyk3
 
 **Generation tools use**: ???
 
-**Comments:** ???
+**Comments:** I enjoyed this assignment.
